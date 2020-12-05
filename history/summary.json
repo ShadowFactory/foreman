@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 622,
-    "timeWeek": 622,
-    "timeMonth": 622,
-    "timeYear": 622
+    "time": 677,
+    "timeDay": 677,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677
   },
   {
     "name": "Workshop",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 943,
-    "timeWeek": 943,
-    "timeMonth": 943,
-    "timeYear": 943
+    "time": 949,
+    "timeDay": 949,
+    "timeWeek": 949,
+    "timeMonth": 949,
+    "timeYear": 949
   },
   {
     "name": "Tools",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 667,
-    "timeWeek": 667,
-    "timeMonth": 667,
-    "timeYear": 667
+    "time": 672,
+    "timeDay": 672,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672
   },
   {
     "name": "Broken Site",
@@ -68,11 +68,11 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.24%",
+    "uptimeDay": "11.20%",
+    "uptimeWeek": "87.31%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "99.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
