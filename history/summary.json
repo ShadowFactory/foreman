@@ -2,6 +2,7 @@
   {
     "name": "Shadow Factory",
     "url": "https://www.shadowfactory.io",
+    "icon": "https://favicons.githubusercontent.com/www.shadowfactory.io",
     "slug": "shadow-factory",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 659,
-    "timeDay": 562,
-    "timeWeek": 659,
-    "timeMonth": 659,
-    "timeYear": 659
+    "time": 704,
+    "timeDay": 928,
+    "timeWeek": 704,
+    "timeMonth": 704,
+    "timeYear": 704,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Workshop",
     "url": "https://workshop.shadowfactory.io",
+    "icon": "https://favicons.githubusercontent.com/workshop.shadowfactory.io",
     "slug": "workshop",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1030,
-    "timeDay": 1157,
-    "timeWeek": 1030,
-    "timeMonth": 1030,
-    "timeYear": 1030
+    "time": 1039,
+    "timeDay": 1080,
+    "timeWeek": 1039,
+    "timeMonth": 1039,
+    "timeYear": 1039,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tools",
     "url": "https://tools.shadowfactory.io",
+    "icon": "https://favicons.githubusercontent.com/tools.shadowfactory.io",
     "slug": "tools",
     "status": "down",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 888,
-    "timeWeek": 747,
-    "timeMonth": 747,
-    "timeYear": 747
+    "time": 765,
+    "timeDay": 851,
+    "timeWeek": 765,
+    "timeMonth": 765,
+    "timeYear": 765,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
+    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
@@ -61,22 +68,31 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "97.56%",
+    "uptime": "96.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.74%",
-    "uptimeMonth": "90.51%",
-    "uptimeYear": "97.56%",
+    "uptimeWeek": "44.43%",
+    "uptimeMonth": "87.21%",
+    "uptimeYear": "96.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-08": 13,
+      "2020-12-07": 1440,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1269
+    }
   }
 ]
