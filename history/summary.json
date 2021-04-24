@@ -4,19 +4,19 @@
     "url": "https://www.shadowfactory.io",
     "icon": "https://favicons.githubusercontent.com/www.shadowfactory.io",
     "slug": "shadow-factory",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 295,
-    "timeWeek": 358,
-    "timeMonth": 342,
-    "timeYear": 452,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 450,
+    "timeDay": 260,
+    "timeWeek": 343,
+    "timeMonth": 338,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2021-04-24": 0
+      "2021-04-24": 14
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-24": 770,
+      "2021-04-24": 784,
       "2021-04-23": 1440,
       "2021-04-22": 1440,
       "2021-04-21": 1440,
