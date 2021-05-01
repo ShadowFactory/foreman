@@ -24,10 +24,10 @@
     "url": "https://workshop.shadowfactory.io",
     "icon": "https://favicons.githubusercontent.com/workshop.shadowfactory.io",
     "slug": "workshop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1822,
@@ -35,16 +35,18 @@
     "timeWeek": 1099,
     "timeMonth": 3398,
     "timeYear": 1822,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-01": 2
+    }
   },
   {
     "name": "Tools",
     "url": "https://tools.shadowfactory.io",
     "icon": "https://favicons.githubusercontent.com/tools.shadowfactory.io",
     "slug": "tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 1153,
     "timeMonth": 1957,
     "timeYear": 1393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-01": 0
+    }
   },
   {
     "name": "Broken Site",
@@ -79,18 +83,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "43.88%",
+    "uptime": "43.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.88%",
+    "uptimeYear": "43.80%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 3,
+      "2021-05-01": 707,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 1440,
