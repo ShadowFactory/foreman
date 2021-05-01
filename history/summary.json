@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/workshop.shadowfactory.io",
     "slug": "workshop",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "91.26%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "89.78%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.93%",
     "time": 1819,
     "timeDay": 1267,
     "timeWeek": 1128,
     "timeMonth": 1968,
     "timeYear": 1819,
     "dailyMinutesDown": {
-      "2021-05-01": 126
+      "2021-05-01": 147
     }
   },
   {
@@ -44,9 +44,9 @@
     "url": "https://tools.shadowfactory.io",
     "icon": "https://favicons.githubusercontent.com/tools.shadowfactory.io",
     "slug": "tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "91.23%",
+    "uptimeDay": "91.22%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.94%",
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 1018,
+      "2021-05-01": 1039,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 1440,
